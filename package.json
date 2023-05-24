@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Grigorio-Makario/npm.git"
+    "url": "git+https://github.com/Robot19i/npm.git"
   },
-  "author": "Makar",
+  "author": "Никита",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Grigorio-Makario/npm/issues"
+    "url": "https://github.com/Robot19i/npm/issues"
   },
-  "homepage": "https://github.com/Grigorio-Makario/npm#readme",
+  "homepage": "https://github.com/Robot19i/npm#readme",
   "dependencies": {
     "jquery": "^3.6.3"
   }
